@@ -20,7 +20,7 @@ The project focuses on frontend engineering quality, clean state management, usa
 
 ---
 
-###  Task Board (Kanban)
+###  Task Board
 - Fixed columns:
   - Todo
   - Doing
