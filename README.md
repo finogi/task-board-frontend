@@ -60,8 +60,8 @@ Ensure you have the following installed:
 
 ### Run the project by 
 ### installing the dependencies and start development 
-npm install
-npm run dev
+- npm install
+- npm run dev
 
 ### to run tests
 npx vitest --run
